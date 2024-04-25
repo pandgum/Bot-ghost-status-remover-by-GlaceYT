@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing Pandgum"];
+const statusMessages = ["Playing /modmail"];
 
 
 let currentIndex = 0;
